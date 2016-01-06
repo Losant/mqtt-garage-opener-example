@@ -1,0 +1,26 @@
+{
+  "name": "@risingstack/mqtt-garage-opener-example",
+  "version": "1.0.0",
+  "description": "A sample application built that shows how MQTT could be used to manage a garage door system.",
+  "main": "controller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "style": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RisingStack/mqtt-garage-opener-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RisingStack/mqtt-garage-opener-example/issues"
+  },
+  "homepage": "https://github.com/RisingStack/mqtt-garage-opener-example#readme",
+  "dependencies": {
+    "mqtt": "^1.6.3"
+  },
+  "devDependencies": {
+    "standard": "^5.4.1"
+  }
+}
